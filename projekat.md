@@ -1,5 +1,5 @@
 projekat je dio vjezbe 
 ### Tehnologije
 JS
-Canvas 
+mijenjam ovu liniju 
 Git
