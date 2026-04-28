@@ -1,1 +1,8 @@
 # git-vjezba
+
+
+
+neka promjena
+
+
+
